@@ -1,5 +1,5 @@
 {
-  "name": "ultraxas",
+  "name": "superman-md",
   "version": "2.1.0",
   "description": "Advanced WhatsApp bot using Baileys",
   "main": "index.js",
@@ -19,10 +19,10 @@
   "keywords": [
     "bot",
     "Baileys",
-    "bmwxmd",
+    "supermanmd",
+    "superman-md",
     "quantum",
-    "whatsapp-bot",
-    "ultraxas"
+    "whatsapp-bot"
   ],
   "author": "ultraxas",
   "license": "ISC",
